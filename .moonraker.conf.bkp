@@ -20,6 +20,11 @@ cors_domains =
 	https://app.fluidd.xyz
 	http://app.fluidd.xyz
 
+[database]
+
+[file_manager]
+enable_object_processing = True
+
 [power Ender3-V2]
 type = tplink_smartplug
 address = 192.168.1.25
